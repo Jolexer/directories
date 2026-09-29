@@ -1,9 +1,13 @@
 # block is assumed, numbers must be 4 digits
 
-"5409":
+"5309":
+  category: yellow-pages
+  name: "Jenny's number"
+
+"7203":
   category: white-pages
-  name: Jolex
+  name: "Jolex"
 
 "9901":
   category: yellow-pages
-  name: Switch verification (Jolex)
+  name: "Switch verification (Jolex)"
